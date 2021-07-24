@@ -7,5 +7,6 @@ public class gitdemo {
         System.out.println("three test");
         System.out.println("hot-fix");
         System.out.println("master");
+        System.out.println("hot-fix-1");
     }
 }
